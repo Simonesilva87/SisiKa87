@@ -1,6 +1,6 @@
 Oii, eu sou Simone Silva!!!!
 
-- 👩‍🎓Sou estudante de Engenharia de Software
+- 👩‍🎓Sou estudante de Engenharia de Software na Faculdade Ampli
 - 📚Tenho estudado muito sobre desenvolvimento e algoritmos
 - 💪estou aqui para aprender muito mais sobre programção
 - 🙌espero muito poder colaborar 
